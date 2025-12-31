@@ -1,4 +1,4 @@
-# WealthEase - Full Stack Application
+# WealthEase - Full Stack application
 
 A modern full-stack application with Next.js frontend and Express backend, featuring email/password authentication and Google OAuth integration.
 
