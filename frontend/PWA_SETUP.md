@@ -14,7 +14,7 @@ Your WealthEase application is now a Progressive Web App (PWA) and can be instal
 
 ## 📱 How to Use PWA
 
-### For Development
+### For Developm
 1. Build the app: `npm run build`
 2. Start production server: `npm start`
 3. Open in browser (Chrome/Edge recommended)
