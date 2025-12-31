@@ -4,7 +4,7 @@
   "language": "typescript",
   "buildCommand": "next build",
   "startCommand": "next start",
-  "domain": "wealthease-final-v2",
+  "domain": "wealthease-final-v1",
   "email": "24523074@students.uii.ac.id",
   "secretKey": "imuii_52e0bae5b1594c613360d54e78fb3b51b17ac7e49bde3c8a8f2fc7375733ed68",
   "repoUrl": "https://github.com/Lab-Sisjarkom-IMUII/wealthease-final-v1-f7111ddd.git"
